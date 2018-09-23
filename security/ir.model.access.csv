@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo_list_view_button_odoo_list_view_button,odoo_list_view_button.odoo_list_view_button,model_odoo_list_view_button_odoo_list_view_button,,1,0,0,0
