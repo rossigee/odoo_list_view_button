@@ -3,11 +3,11 @@
     'name': "odoo_list_view_button",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        List view button demo
+    """,
 
     'description': """
-        Long description of module's purpose
+        Demonstration of adding a new button to list view
     """,
 
     'author': "My Company",
@@ -32,4 +32,8 @@
     'demo': [
         'demo/demo.xml',
     ],
+
+    'qweb': [
+        'static/src/xml/button.xml',
+    ]
 }
